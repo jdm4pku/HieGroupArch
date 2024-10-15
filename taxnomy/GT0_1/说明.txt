@@ -1,0 +1,7 @@
+这个版本是将Anolis扩展到术语表中
+新增了12个，从Anolis OS PowerTools往后都是新增的
+origin:是扩展前的术语表
+update:Anolis的所有术语，即需要判断是否进行扩增的术语表
+human: 对update中的所有术语，判断是否进行纳入术语表的结果
+final: 将结合纳入术语表后的结果
+

@@ -1,0 +1,634 @@
+[
+    {
+        "name": "Anaconda tools",
+        "descroption": ""
+    },
+    {
+        "name": "Container Management",
+        "descroption": "Tools for managing Linux containers"
+    },
+    {
+        "name": "Core",
+        "descroption": "Smallest possible installation"
+    },
+    {
+        "name": "Domain Membership",
+        "descroption": "Support for joining a FreeIPA or Active Directory Domain"
+    },
+    {
+        "name": "Guest Agents",
+        "descroption": "Agents used when running under a hypervisor."
+    },
+    {
+        "name": "Hardware Support",
+        "descroption": "This group is a collection of tools for various hardware specific utilities."
+    },
+    {
+        "name": "Headless Management",
+        "descroption": "Tools for managing the system without an attached graphical console."
+    },
+    {
+        "name": "Common NetworkManager Submodules",
+        "descroption": "This group contains NetworkManager submodules that are commonly used"
+    },
+    {
+        "name": "VMware Platform Support",
+        "descroption": "Packages to install in VMware virtual machines"
+    },
+    {
+        "name": "Hardware Support for Server Systems",
+        "descroption": "This group is a limited collection of tools for various uncommon hardware specific utilities."
+    },
+    {
+        "name": "Fedora Server product core",
+        "descroption": "Packages mandatory for the server product."
+    },
+    {
+        "name": "Standard",
+        "descroption": "Common set of utilities that extend the minimal installation."
+    },
+    {
+        "name": "3D Printing",
+        "descroption": "3D printing software"
+    },
+    {
+        "name": "Administration Tools",
+        "descroption": "This group is a collection of graphical administration tools for the system"
+    },
+    {
+        "name": "Audio Production",
+        "descroption": "Various tools for audio synthesis and music production."
+    },
+    {
+        "name": "Authoring and Publishing",
+        "descroption": "These tools allow you to create documents in the DocBook format and convert them into HTML"
+    },
+    {
+        "name": "base-graphical",
+        "descroption": "Common packages for any graphical session"
+    },
+    {
+        "name": "base-x",
+        "descroption": "Local X.org display server"
+    },
+    {
+        "name": "Basic Desktop",
+        "descroption": "Basic X Window System with a choice of window manager."
+    },
+    {
+        "name": "Budgie",
+        "descroption": "Budgie Desktop is a feature-rich"
+    },
+    {
+        "name": "Budgie Desktop Applications",
+        "descroption": "Recommended applications to use with Budgie Desktop"
+    },
+    {
+        "name": "Buildsystem building group",
+        "descroption": ""
+    },
+    {
+        "name": "C Development Tools and Libraries",
+        "descroption": "These tools include core development tools such as automake"
+    },
+    {
+        "name": "Cinnamon",
+        "descroption": "Cinnamon provides a desktop with a traditional layout"
+    },
+    {
+        "name": "Bootloader tools for Cloud images",
+        "descroption": "Bootloader software for images that run in \"cloud\" environments"
+    },
+    {
+        "name": "Cloud Infrastructure",
+        "descroption": "Infrastructure packages for cloud computing."
+    },
+    {
+        "name": "Cloud Management Tools",
+        "descroption": "Software to manage servers and system images that run in \"cloud\" environments"
+    },
+    {
+        "name": "Cloud Server Tools",
+        "descroption": "Software for servers and system images that run in \"cloud\" environments"
+    },
+    {
+        "name": "Compiz",
+        "descroption": "This package group adds Compiz and Emerald"
+    },
+    {
+        "name": "Critical Path (anaconda)",
+        "descroption": "A set of packages that provide the Critical Path functionality for installing Fedora with anaconda"
+    },
+    {
+        "name": "Critical Path (Applications)",
+        "descroption": "A set of applications that are considered critical path"
+    },
+    {
+        "name": "Critical Path (Base)",
+        "descroption": "A set of packages that provide the shared platform for Critical Path functionality on all Fedora spins"
+    },
+    {
+        "name": "Critical Path (Build)",
+        "descroption": "A set of packages that provide the Critical Path functionality for building Fedora packages"
+    },
+    {
+        "name": "Critical Path (Compose)",
+        "descroption": "A set of packages that provide the Critical Path functionality for building Fedora deliverables"
+    },
+    {
+        "name": "Critical Path (Deepin desktop)",
+        "descroption": "A set of packages that provide the Critical Path functionality for the Deepin desktop"
+    },
+    {
+        "name": "Critical Path (GNOME)",
+        "descroption": "A set of packages that provide the Critical Path functionality for the GNOME desktop"
+    },
+    {
+        "name": "Critical Path (KDE)",
+        "descroption": "A set of packages that provide the Critical Path functionality for the KDE desktop"
+    },
+    {
+        "name": "Critical Path (LXDE)",
+        "descroption": "A set of packages that provide the Critical Path functionality for the LXDE desktop"
+    },
+    {
+        "name": "Critical Path (LXQt)",
+        "descroption": "A set of packages that provide the Critical Path functionality for the LXQt desktop"
+    },
+    {
+        "name": "Critical Path (Server)",
+        "descroption": "A set of packages that provide the Critical Path functionality for the Server edition"
+    },
+    {
+        "name": "Critical Path (standard)",
+        "descroption": "A set of packages that relate to Critical Path functionality and are in standard but not base"
+    },
+    {
+        "name": "Critical Path (Xfce)",
+        "descroption": "A set of packages that provide the Critical Path functionality for the Xfce desktop"
+    },
+    {
+        "name": "D Development Tools and Libraries",
+        "descroption": "These include development tools and libraries such as ldc"
+    },
+    {
+        "name": "Deepin Desktop Environment",
+        "descroption": "Deepin Desktop is a desktop environment aims at being elegant and easy to use."
+    },
+    {
+        "name": "Deepin Desktop Applications",
+        "descroption": "Deepin Desktop Applications"
+    },
+    {
+        "name": "Media packages for Deepin Desktop",
+        "descroption": "Media packages for Deepin Desktop"
+    },
+    {
+        "name": "Deepin Desktop Office",
+        "descroption": "Office suite for Deepin Desktop"
+    },
+    {
+        "name": "Design Suite",
+        "descroption": "These packages are targeted towards professional designers"
+    },
+    {
+        "name": "Desktop accessibility",
+        "descroption": "This group contains essential accessibility stack to be used with desktop environments."
+    },
+    {
+        "name": "Development Libraries",
+        "descroption": "The packages in this group are core libraries needed to develop applications."
+    },
+    {
+        "name": "Development Tools",
+        "descroption": "These tools include general development tools such as git and CVS."
+    },
+    {
+        "name": "Dial-up Networking Support",
+        "descroption": ""
+    },
+    {
+        "name": "Directory Server",
+        "descroption": "Machine and user identity servers."
+    },
+    {
+        "name": "DNS Name Server",
+        "descroption": "This package group allows you to run a DNS name server (BIND) on the system."
+    },
+    {
+        "name": "Dogtag Certificate System",
+        "descroption": "Enterprise-class open source Certificate Authority"
+    },
+    {
+        "name": "Editors",
+        "descroption": "Sometimes called text editors"
+    },
+    {
+        "name": "Educational Software",
+        "descroption": "Educational software for learning"
+    },
+    {
+        "name": "Electronic Lab",
+        "descroption": "Design and simulation tools for hardware engineers"
+    },
+    {
+        "name": "Engineering and Scientific",
+        "descroption": "This group includes packages for performing mathematical and scientific computations and plotting"
+    },
+    {
+        "name": "Enlightenment",
+        "descroption": "Enlightenment is a lean"
+    },
+    {
+        "name": "Fedora Packager",
+        "descroption": "Tools and utilities needed by a Fedora Packager"
+    },
+    {
+        "name": "Firefox Web Browser",
+        "descroption": "The Firefox web browser"
+    },
+    {
+        "name": "Font design and packaging",
+        "descroption": "This group is a collection of tools used in the design"
+    },
+    {
+        "name": "Fonts",
+        "descroption": "Fonts packages for rendering text on the desktop."
+    },
+    {
+        "name": "FreeIPA Server",
+        "descroption": "Provides central directory services for identity"
+    },
+    {
+        "name": "FTP Server",
+        "descroption": "These tools allow you to run an FTP server on the system."
+    },
+    {
+        "name": "Games and Entertainment",
+        "descroption": "Various ways to relax and spend your free time."
+    },
+    {
+        "name": "GNOME",
+        "descroption": "GNOME is a highly intuitive and user friendly desktop environment."
+    },
+    {
+        "name": "Extra games for the GNOME Desktop",
+        "descroption": "A variety of games for the GNOME Desktop"
+    },
+    {
+        "name": "GNOME Software Development",
+        "descroption": "Install these packages in order to develop GTK+ and GNOME graphical applications."
+    },
+    {
+        "name": "Graphical Internet",
+        "descroption": "This group includes graphical email"
+    },
+    {
+        "name": "Graphics",
+        "descroption": "This group includes packages to help you manipulate and scan images."
+    },
+    {
+        "name": "Guest Desktop Agents",
+        "descroption": "Agents used when running as a virtualized desktop."
+    },
+    {
+        "name": "High Availability",
+        "descroption": "Infrastructure for highly available services and/or shared storage."
+    },
+    {
+        "name": "HAProxy",
+        "descroption": "TCP/HTTP Load Balancer."
+    },
+    {
+        "name": "Haskell",
+        "descroption": "Support for developing programs in the Haskell programming language."
+    },
+    {
+        "name": "i3 window manager",
+        "descroption": "i3 is a tiling window manager primarily targeted at advanced users and developers. This group is a minimal"
+    },
+    {
+        "name": "i3 window manager (supplemental packages)",
+        "descroption": "i3 is a tiling window manager primarily targeted at advanced users and developers. This group includes supplemental"
+    },
+    {
+        "name": "Input Methods",
+        "descroption": "Input method packages for the input of international text."
+    },
+    {
+        "name": "Java",
+        "descroption": "Support for running programs written in the Java programming language."
+    },
+    {
+        "name": "Java Development",
+        "descroption": "Support for developing programs in the Java programming language."
+    },
+    {
+        "name": "Java Application Server",
+        "descroption": "Java application server."
+    },
+    {
+        "name": "KDE Applications",
+        "descroption": "A set of commonly used KDE applications"
+    },
+    {
+        "name": "KDE",
+        "descroption": "The KDE Plasma Workspaces"
+    },
+    {
+        "name": "KDE Educational applications",
+        "descroption": "KDE Educational applications"
+    },
+    {
+        "name": "KDE Multimedia support",
+        "descroption": "Multimedia support for KDE"
+    },
+    {
+        "name": "KDE Office",
+        "descroption": "KDE Office applications"
+    },
+    {
+        "name": "KDE PIM",
+        "descroption": "Personal information management tools for KDE"
+    },
+    {
+        "name": "KDE Software Development",
+        "descroption": "Install these packages to develop Qt and KDE graphical applications."
+    },
+    {
+        "name": "KDE Spin Initial Setup",
+        "descroption": "The KDE Spin Initial Setup packages for firstboot configuration."
+    },
+    {
+        "name": "KDE Frameworks 5 Software Development",
+        "descroption": "Install these packages to develop applications using Qt5 and KDE Frameworks 5."
+    },
+    {
+        "name": "Legacy Fonts",
+        "descroption": "Older bitmap and vector fonts packages"
+    },
+    {
+        "name": "Legacy Network Server",
+        "descroption": "These packages include servers for old network protocols such as rsh and telnet."
+    },
+    {
+        "name": "LibreOffice",
+        "descroption": "LibreOffice Productivity Suite"
+    },
+    {
+        "name": "LibreOffice Development",
+        "descroption": "These packages are helpful when developing LibreOffice extensions or macros."
+    },
+    {
+        "name": "Load Balancer",
+        "descroption": "Load balancing support for network traffic"
+    },
+    {
+        "name": "Applications for the LXDE Desktop",
+        "descroption": "A set of commonly used applications for the LXDE Desktop"
+    },
+    {
+        "name": "LXDE",
+        "descroption": "LXDE is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks"
+    },
+    {
+        "name": "Multimedia support for LXDE",
+        "descroption": "Multimedia support for LXDE"
+    },
+    {
+        "name": "LXDE Office",
+        "descroption": "Office suite for LXDE"
+    },
+    {
+        "name": "Applications for the LXQt Desktop",
+        "descroption": "A set of commonly used applications for the LXQt Desktop"
+    },
+    {
+        "name": "LXQt",
+        "descroption": "LXQt is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks"
+    },
+    {
+        "name": "Translations of LXQt",
+        "descroption": "Translations of LXQt"
+    },
+    {
+        "name": "Multimedia support for LXQt",
+        "descroption": "Multimedia support for LXQt"
+    },
+    {
+        "name": "LXQt Office",
+        "descroption": "Office suite for LXQt"
+    },
+    {
+        "name": "Mail Server",
+        "descroption": "These packages allow you to configure an IMAP or SMTP mail server."
+    },
+    {
+        "name": "MATE Applications",
+        "descroption": "Applications for the MATE Desktop."
+    },
+    {
+        "name": "MATE",
+        "descroption": "MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface."
+    },
+    {
+        "name": "Milkymist",
+        "descroption": "Toolchain for Milkymist hardware engineers."
+    },
+    {
+        "name": "MinGW cross-compiler",
+        "descroption": "Support for cross-compiling programs to 32 bit Windows targets"
+    },
+    {
+        "name": "Multimedia",
+        "descroption": "Audio/video framework common to desktops"
+    },
+    {
+        "name": "MariaDB (MySQL) Database",
+        "descroption": "This package group contains packages useful for use with MariaDB (MySQL)."
+    },
+    {
+        "name": "Network Servers",
+        "descroption": "These packages include network-based servers such as DHCP"
+    },
+    {
+        "name": "Neuron Modelling Simulators",
+        "descroption": "This group includes simulators used in modelling of neurons and their networks."
+    },
+    {
+        "name": "News Server",
+        "descroption": "This group allows you to configure the system as a news server."
+    },
+    {
+        "name": "OCaml",
+        "descroption": "Support for developing software using the Objective Caml programming language and libraries."
+    },
+    {
+        "name": "Office/Productivity",
+        "descroption": "The applications include office suites"
+    },
+    {
+        "name": "Perl Development",
+        "descroption": "Support for developing programs in the Perl programming language."
+    },
+    {
+        "name": "Perl for Web",
+        "descroption": "Basic Perl web application support."
+    },
+    {
+        "name": "A phone/tablet UX environment",
+        "descroption": "A phone/tablet desktop UX based on GNOME3 technologies."
+    },
+    {
+        "name": "PHP",
+        "descroption": "General-purpose web development scripting language."
+    },
+    {
+        "name": "Printing Support",
+        "descroption": "Install these tools to enable the system to print or act as a print server."
+    },
+    {
+        "name": "Python Classroom",
+        "descroption": "Tools used to teach and learn Python."
+    },
+    {
+        "name": "Python Science",
+        "descroption": "Tools used to do science in Python."
+    },
+    {
+        "name": "Robotics",
+        "descroption": "Suite of packages for robotics development"
+    },
+    {
+        "name": "RPM Development Tools",
+        "descroption": "These tools include core development tools such rpmbuild."
+    },
+    {
+        "name": "Ruby",
+        "descroption": "Basic support for the Ruby programming language."
+    },
+    {
+        "name": "Ruby on Rails",
+        "descroption": "Ruby on Rails web application stack."
+    },
+    {
+        "name": "Security Lab",
+        "descroption": "Tools for security auditing"
+    },
+    {
+        "name": "Server Configuration Tools",
+        "descroption": "This group contains all of Red Hat's custom server configuration tools."
+    },
+    {
+        "name": "Windows File Server",
+        "descroption": "This package group allows you to share files between Linux and MS Windows(tm) systems."
+    },
+    {
+        "name": "Sound and Video",
+        "descroption": "From CD recording to playing audio CDs and multimedia files"
+    },
+    {
+        "name": "PostgreSQL Database",
+        "descroption": "This package group includes packages useful for use with PostgreSQL."
+    },
+    {
+        "name": "Additional Sugar Activities",
+        "descroption": "Additional activities for use with the Sugar Environment."
+    },
+    {
+        "name": "Sugar Desktop Environment",
+        "descroption": "A software playground for learning about learning."
+    },
+    {
+        "name": "Sway Window Manager",
+        "descroption": "Sway is a tiling window manager supporting Wayland compositor protocol and i3-compatible configuration. This group is a minimal set of packages to use Sway with other system components."
+    },
+    {
+        "name": "Sway Window Manager (supplemental packages)",
+        "descroption": "Sway is a tiling window manager supporting Wayland compositor protocol and i3-compatible configuration. This group includes additional set of packages for Fedora Sway spin."
+    },
+    {
+        "name": "System Tools",
+        "descroption": "This group is a collection of various tools for the system"
+    },
+    {
+        "name": "Text-based Internet",
+        "descroption": "This group includes text-based email"
+    },
+    {
+        "name": "Tomcat",
+        "descroption": "Tomcat web application server."
+    },
+    {
+        "name": "Vagrant with libvirt support",
+        "descroption": "These packages provide Vagrant with libvirt provider support"
+    },
+    {
+        "name": "Virtualization",
+        "descroption": "These packages provide a graphical virtualization environment."
+    },
+    {
+        "name": "Headless Virtualization",
+        "descroption": "These packages provide a headless virtualization environment."
+    },
+    {
+        "name": "VideoLAN Client",
+        "descroption": "The cross-platform open-source multimedia framework"
+    },
+    {
+        "name": "Basic Web Server",
+        "descroption": "These tools allow you to run a Web server on the system."
+    },
+    {
+        "name": "Window Managers",
+        "descroption": "Simple window managers that aren't part of a larger desktop environment."
+    },
+    {
+        "name": "Fedora Workstation ostree support",
+        "descroption": "Packages mandatory for the workstation ostree product."
+    },
+    {
+        "name": "Fedora Workstation product core",
+        "descroption": "Packages mandatory for the workstation product."
+    },
+    {
+        "name": "X Software Development",
+        "descroption": "These packages allow you to develop applications for the X Window System."
+    },
+    {
+        "name": "Applications for the Xfce Desktop",
+        "descroption": "A set of commonly used applications for the Xfce Desktop"
+    },
+    {
+        "name": "Xfce",
+        "descroption": "A lightweight desktop environment that works well on low end machines."
+    },
+    {
+        "name": "Extra plugins for the Xfce panel",
+        "descroption": "Extend the functionality of the Xfce panel"
+    },
+    {
+        "name": "Multimedia support for Xfce",
+        "descroption": "Multimedia support for Xfce"
+    },
+    {
+        "name": "Xfce Office",
+        "descroption": "Office suite for Xfce"
+    },
+    {
+        "name": "Xfce Software Development",
+        "descroption": "Install these packages in order to develop GTK+ and Xfce graphical applications."
+    },
+    {
+        "name": "XMonad",
+        "descroption": "A tiling window manager"
+    },
+    {
+        "name": "XMonad for MATE",
+        "descroption": "XMonad window manager with MATE"
+    },
+    {
+        "name": "KDE Frameworks 6 Software Development",
+        "descroption": "Install these packages to develop applications using Qt6 and KDE Frameworks 6."
+    }
+]

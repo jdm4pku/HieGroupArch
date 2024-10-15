@@ -1,0 +1,6 @@
+这个判断是在GT2的基础上，经过opencloudos进行扩增的
+新增了0个
+origin:是扩展前的术语表
+update:opencloudos的所有术语，即需要判断是否进行扩增的术语表
+human: 对update中的所有术语，判断是否进行纳入术语表的结果
+final: 将结合纳入术语表后的结果

@@ -1,0 +1,634 @@
+[
+    {
+        "name": "Anaconda tools",
+        "judge": "B. 包含。\n\n术语表T中包含了\"Anaconda Tools\"这个术语，与术语N相同。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Container Management",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: Container Management。术语表T中没有重复的术语。"
+    },
+    {
+        "name": "Core",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: {'name': 'Core', 'descroption': 'Smallest possible installation'}。因此，术语表T包含了术语N。没有重复的术语。"
+    },
+    {
+        "name": "Domain Membership",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: Domain Membership。术语表T中没有重复的术语。"
+    },
+    {
+        "name": "Guest Agents",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Guest Agents'. 术语N的描述为\"Agents used when running under a hypervisor.\"，与术语表T中的描述完全一致。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Hardware Support",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语名为\"Hardware Monitoring Utilities\"，描述为\"A set of tools to monitor server hardware.\"，与术语N中的\"Hardware Support\"有一定的重复。因为两者都涉及硬件相关的工具和实用程序。"
+    },
+    {
+        "name": "Headless Management",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Headless Management'。术语表T中没有重复的术语。"
+    },
+    {
+        "name": "Common NetworkManager Submodules",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，但是术语N在术语表T中的名称为\"Common NetworkManager submodules\"，而不是\"Common NetworkManager Submodules\"。虽然名称中的大小写不同，但是它们表示的是同一个术语。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "VMware Platform Support",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语'VMware Platform Support'，因此术语表T不包含术语N。"
+    },
+    {
+        "name": "Hardware Support for Server Systems",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Hardware Support for Server Systems'。术语N描述了一组用于各种不常见硬件特定实用程序的工具，而术语表T中也包含了类似描述的术语，如'Hardware Monitoring Utilities'和'Hardware Monitoring Utilities'。因此，术语表T中的术语与术语N有一定的重复。"
+    },
+    {
+        "name": "Fedora Server product core",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语'Fedora Server product core'，因此术语表T不包含术语N。"
+    },
+    {
+        "name": "Standard",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，术语N是\"Standard\"，描述为\"Common set of utilities that extend the minimal installation\"。在术语表T中没有重复的术语。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "3D Printing",
+        "judge": "B. 包含。\n\n术语表T中包含了一个名为\"3D Printing\"的术语，描述为\"3D printing software\"，与术语N中的\"3D Printing\"术语是相同的。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Administration Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"Administration Tools\"，但是术语表T中已经有了类似的术语 \"System Administration Tools\"，因此这两个术语是重复的。"
+    },
+    {
+        "name": "Audio Production",
+        "judge": "B. 包含。\n\n术语表T中已经包含了\"Multimedia\"，而术语N中的\"Audio Production\"也属于多媒体相关的内容，因此术语表T已经包含了术语N。"
+    },
+    {
+        "name": "Authoring and Publishing",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Authoring and Publishing'。术语表T中没有重复的术语。"
+    },
+    {
+        "name": "base-graphical",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"base-graphical\"的术语，描述为\"Common packages for any graphical session\"，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "base-x",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，术语N是\"base-x\"，描述为\"Local X.org display server\"。"
+    },
+    {
+        "name": "Basic Desktop",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N \"Basic Desktop\"，其描述为 \"Basic X Window System with a choice of window manager.\" 因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Budgie",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N \"Budgie\"。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Budgie Desktop Applications",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N的描述，但是术语N本身并不在术语表T中。因此，术语表T包含了术语N的描述，但没有重复的术语。"
+    },
+    {
+        "name": "Buildsystem building group",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"Buildsystem building group\"，因此术语表T包含了术语N。术语表T中没有重复的术语。"
+    },
+    {
+        "name": "C Development Tools and Libraries",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'C Development Tools and Libraries'。术语表T中的 'Development Tools' 与术语N有一定的重复，但并非完全相同。"
+    },
+    {
+        "name": "Cinnamon",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N：Cinnamon。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Bootloader tools for Cloud images",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N：\"Bootloader tools for Cloud images\"。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Cloud Infrastructure",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Cloud Infrastructure'. 术语表T中没有重复的术语。"
+    },
+    {
+        "name": "Cloud Management Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Cloud Management Tools'。术语表T中没有重复的术语。"
+    },
+    {
+        "name": "Cloud Server Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: Cloud Server Tools。在术语表T中没有重复的术语。"
+    },
+    {
+        "name": "Compiz",
+        "judge": "B. 包含。\n\n术语表T中已经包含了名为Compiz的术语，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "Critical Path (anaconda)",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N：\"Critical Path (anaconda)\"。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Critical Path (Applications)",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Critical Path (Applications)'. 术语表T中没有重复的术语。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Critical Path (Base)",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N：\"Critical Path (Base)\"。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Critical Path (Build)",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N：\"Critical Path (Build)\"。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Critical Path (Compose)",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'Critical Path (Compose)', 因此术语表T不包含术语N。"
+    },
+    {
+        "name": "Critical Path (Deepin desktop)",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Critical Path (Deepin desktop)'. 术语表T中没有重复的术语。"
+    },
+    {
+        "name": "Critical Path (GNOME)",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Critical Path (GNOME)'. 术语表T中没有重复的术语。"
+    },
+    {
+        "name": "Critical Path (KDE)",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N \"Critical Path (KDE)\"。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Critical Path (LXDE)",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'Critical Path (LXDE)', 'descroption': 'A set of packages that provide the Critical Path functionality for the LXDE desktop'。 因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Critical Path (LXQt)",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Critical Path (LXQt)', 但是术语表T中没有重复的术语。"
+    },
+    {
+        "name": "Critical Path (Server)",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Critical Path (Server)'. 但是术语表T中没有重复的术语。"
+    },
+    {
+        "name": "Critical Path (standard)",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'Critical Path (standard)', 'descroption': 'A set of packages that relate to Critical Path functionality and are in standard but not base'。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Critical Path (Xfce)",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Critical Path (Xfce)'. 术语表T中没有重复的术语。"
+    },
+    {
+        "name": "D Development Tools and Libraries",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N：\"D Development Tools and Libraries\"。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Deepin Desktop Environment",
+        "judge": "B. 包含。\n\n术语表T中包含了\"Deepin New Desktop Environment\"，而术语N是\"Deepin Desktop Environment\"，虽然有些许差异，但可以认为是同一个概念，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "Deepin Desktop Applications",
+        "judge": "B. 包含。\n\n术语表T中已经包含了\"Deepin Desktop Applications\"，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "Media packages for Deepin Desktop",
+        "judge": "B. 包含。\n\n术语表T中已经包含了\"Deepin New Desktop Environment\"，而术语N是\"Media packages for Deepin Desktop\"，它们描述的内容是相关的，因此可以认为术语表T包含了术语N。"
+    },
+    {
+        "name": "Deepin Desktop Office",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"Office Suite and Productivity\"的术语，描述为\"A full-purpose office suite\"。因此，术语N中的\"Deepin Desktop Office\"可以被认为是与\"Office Suite and Productivity\"重复的术语。"
+    },
+    {
+        "name": "Design Suite",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: Design Suite。因此，术语表T不包含术语N。没有重复的术语。"
+    },
+    {
+        "name": "Desktop accessibility",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N的描述，但是术语N本身并不在术语表T中。因此，术语表T包含了术语N的描述，但没有重复的术语。"
+    },
+    {
+        "name": "Development Libraries",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N中的\"Development Libraries\"，只是描述稍有不同。术语表T中的\"Additional Development\"提到了用于构建开源应用程序的附加开发头文件和库，而术语N中的\"Development Libraries\"提到了用于开发应用程序所需的核心库。因此，术语表T中的\"Additional Development\"可以被认为是包含了术语N中的\"Development Libraries\"。"
+    },
+    {
+        "name": "Development Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"Development Tools\"，但是描述不同。术语表T中的 \"Development Tools\" 描述为 \"A basic development environment.\"，而术语N中的 \"Development Tools\" 描述为 \"These tools include general development tools such as git and CVS.\" 因此，虽然术语相同，但描述不同。"
+    },
+    {
+        "name": "Dial-up Networking Support",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Dial-up Networking Support'。"
+    },
+    {
+        "name": "Directory Server",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Directory Server', 'Machine and user identity servers.'。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "DNS Name Server",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N：\"DNS Name Server\"。在术语表T中，术语N的描述是\"This package group allows you to run a DNS name server (BIND) on the system.\"。因此，术语表T中的术语N与给定的术语N是相同的。"
+    },
+    {
+        "name": "Dogtag Certificate System",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语 'Dogtag Certificate System'，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "Editors",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'Editors', 'descroption': 'Sometimes called text editors'。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Educational Software",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: Educational Software。术语表T中没有重复的术语，因此术语N是新添加的术语。"
+    },
+    {
+        "name": "Electronic Lab",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: Electronic Lab。术语表T中没有重复的术语，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "Engineering and Scientific",
+        "judge": "B. 包含。\n\n术语表T中已经包含了\"Scientific Support\"，这个术语与术语N中的\"Engineering and Scientific\"有一定的重复，因为它们都涉及到数学和科学计算。因此，术语表T已经包含了术语N的相关内容。"
+    },
+    {
+        "name": "Enlightenment",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，术语N是\"Enlightenment\"，描述为\"Enlightenment is a lean\"。术语表T中也包含了\"Enlightenment\"，描述为\"Enlightenment is a lean desktop environment.\"，因此术语N和术语表T中的\"Enlightenment\"是重复的。"
+    },
+    {
+        "name": "Fedora Packager",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'Fedora Packager', 'descroption': 'Tools and utilities needed by a Fedora Packager'。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Firefox Web Browser",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，但是术语N的描述和术语表T中的术语'Internet Browser'的描述非常相似，因此可以认为它们是重复的。"
+    },
+    {
+        "name": "Font design and packaging",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'Font design and packaging'. 因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Fonts",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，但是术语N在术语表T中出现了两次，分别是：\n1. {'name': 'Fonts', 'descroption': 'Fonts for rendering text in a variety of languages and scripts.'}\n2. {'name': 'Fonts', 'descroption': 'Fonts packages for rendering text on the desktop.'}\n\n这两个术语虽然都包含了关于字体的描述，但是描述内容不同，因此可以算作是两个不同的术语。"
+    },
+    {
+        "name": "FreeIPA Server",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语 'FreeIPA Server'，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "FTP Server",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N \"FTP Server\"，描述为\"Allows the system to act as an FTP server.\" 因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Games and Entertainment",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Games and Entertainment'. 术语表T中没有重复的术语。"
+    },
+    {
+        "name": "GNOME",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，即\"GNOME\"。在术语表T中，\"GNOME\"的描述是\"GNOME is a highly intuitive and user friendly desktop environment.\"，与术语N的描述完全一致。因此，术语表T中的\"GNOME\"与术语N是重复的。"
+    },
+    {
+        "name": "Extra games for the GNOME Desktop",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N，因为术语N是\"Extra games for the GNOME Desktop\"，而术语表T中没有类似描述的术语。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "GNOME Software Development",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语'GNOME Software Development'，因此术语表T不包含术语N。"
+    },
+    {
+        "name": "Graphical Internet",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N中的 \"Graphical Internet\"，只是描述稍有不同。术语表T中的 \"Console Internet Tools\" 和 \"Internet Applications\" 可以被认为是与 \"Graphical Internet\" 相关的术语。"
+    },
+    {
+        "name": "Graphics",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N中的\"Graphics\"，描述为\"This group includes packages for creation and manipulation of still images.\"，与术语N中的描述\"This group includes packages to help you manipulate and scan images.\"有一定的重复。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Guest Desktop Agents",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Guest Desktop Agents'。因此，术语表T包含了术语N。没有重复的术语。"
+    },
+    {
+        "name": "High Availability",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"High Availability\"，因此术语表T包含了术语N。没有重复的术语。"
+    },
+    {
+        "name": "HAProxy",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"Load Balancer\"的术语，其描述为\"Load balancing support for network traffic.\"，与术语N \"HAProxy\"的描述\"TCP/HTTP Load Balancer.\"非常相似，因此可以判断术语表T已经包含了术语N。"
+    },
+    {
+        "name": "Haskell",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: Haskell。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "i3 window manager",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N：\"i3 window manager\"。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "i3 window manager (supplemental packages)",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N：\"i3 window manager (supplemental packages)\"。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Input Methods",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N \"Input Methods\"，但是描述略有不同。术语表T中的描述为\"Software for the input of international text.\"，而术语N的描述为\"Input method packages for the input of international text.\"，两者在描述上有一定的重复。"
+    },
+    {
+        "name": "Java",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N: Java Platform。因此，术语表T包含了术语N: Java。"
+    },
+    {
+        "name": "Java Development",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N \"Java Development\"，它的描述是 \"Support for developing programs in the Java programming language.\" 因此，术语表T已经包含了术语N。"
+    },
+    {
+        "name": "Java Application Server",
+        "judge": "B. 包含。\n\n术语表T中已经包含了\"Java Platform\"，描述为\"Java support for the CentOS Linux Server and Desktop Platforms.\"，与术语N中的\"Java Application Server\"有一定的重复。"
+    },
+    {
+        "name": "KDE Applications",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"KDE Applications\"，描述为\"A set of commonly used KDE applications\"。"
+    },
+    {
+        "name": "KDE",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，即\"KDE\"。在术语表T中，\"KDE\"的描述为\"The KDE Plasma Workspaces\"。"
+    },
+    {
+        "name": "KDE Educational applications",
+        "judge": "B. 包含。\n\n术语表T中已经包含了\"KDE Applications\"，而术语N是\"KDE Educational applications\"，两者虽然有些相似，但是并不完全重复。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "KDE Multimedia support",
+        "judge": "B. 包含。\n\n术语表T中已经包含了\"KDE Multimedia Support\"这个术语，与术语N中的\"KDE Multimedia support\"是重复的。"
+    },
+    {
+        "name": "KDE Office",
+        "judge": "B. 包含。\n\n术语表T中已经包含了类似的术语\"KDE Applications\"和\"KDE\"，因此\"KDE Office\"可以被认为是重复的术语。"
+    },
+    {
+        "name": "KDE PIM",
+        "judge": "B. 包含。\n\n术语表T中已经包含了\"KDE Applications\"和\"KDE Multimedia Support\"，这两个术语与\"KDE PIM\"有一定的相关性，因为它们都涉及到KDE桌面环境下的应用程序。"
+    },
+    {
+        "name": "KDE Software Development",
+        "judge": "B. 包含。\n\n术语表T中已经包含了类似的术语 \"KDE Applications\" 和 \"KDE Multimedia Support\"，因此术语N \"KDE Software Development\" 与这些术语不同，没有重复。"
+    },
+    {
+        "name": "KDE Spin Initial Setup",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语 'KDE Spin Initial Setup'，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "KDE Frameworks 5 Software Development",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'KDE Frameworks 5 Software Development'。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Legacy Fonts",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"Fonts\"的术语，描述为\"Fonts for rendering text in a variety of languages and scripts.\"，与术语N中的\"Legacy Fonts\"有一定的重复。"
+    },
+    {
+        "name": "Legacy Network Server",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'Legacy Network Server'. 因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "LibreOffice",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N: {'name': 'Office Suite and Productivity', 'descroption': 'A full-purpose office suite'}，它们描述的内容类似，都是关于办公套件和生产力工具。"
+    },
+    {
+        "name": "LibreOffice Development",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N: 'Office Suite and Productivity'，它描述了一个完整的办公套件，而术语N 'LibreOffice Development' 描述了用于开发LibreOffice扩展或宏的软件包，两者在功能上有一定的重叠。"
+    },
+    {
+        "name": "Load Balancer",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"Load Balancer\"，因此术语表T包含了术语N。没有重复的术语。"
+    },
+    {
+        "name": "Applications for the LXDE Desktop",
+        "judge": "B. 包含。\n\n术语表T中包含了\"Applications for the LXDE Desktop\"，与术语N中的\"A set of commonly used applications for the LXDE Desktop\"是相同的术语。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "LXDE",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N：LXDE。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Multimedia support for LXDE",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'Multimedia support for LXDE'。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "LXDE Office",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"Office Suite and Productivity\"的术语，描述为\"A full-purpose office suite\"，与术语N中的\"Office suite for LXDE\"有所重复。"
+    },
+    {
+        "name": "Applications for the LXQt Desktop",
+        "judge": "B. 包含。\n\n术语表T中包含了\"Applications for the LXQt Desktop\"，与术语表T中的\"GNOME Applications\"和\"KDE Applications\"类似，都是一组常用的桌面应用程序集合。"
+    },
+    {
+        "name": "LXQt",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: LXQt。 因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Translations of LXQt",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'Translations of LXQt'。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Multimedia support for LXQt",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"Multimedia\"的术语，描述为\"Audio/video framework common to desktops.\"，与术语N中的\"Multimedia support for LXQt\"有一定的重复。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "LXQt Office",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"Office Suite and Productivity\"的术语，描述为\"A full-purpose office suite\"，与术语N中的\"LXQt Office\"有一定的重复性。"
+    },
+    {
+        "name": "Mail Server",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个类似的术语 \"E-mail Server\"，描述为 \"Allows the system to act as a SMTP and/or IMAP e-mail server.\"，与术语N \"Mail Server\" 的描述 \"These packages allow you to configure an IMAP or SMTP mail server.\" 相似。因此，术语表T已经包含了术语N的相关内容。"
+    },
+    {
+        "name": "MATE Applications",
+        "judge": "B. 包含。\n\n术语表T中已经包含了'MATE Applications'，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "MATE",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个与术语N相似的术语，即'GNOME'。虽然两者不完全相同，但它们都是关于桌面环境的描述，因此可以认为术语表T已经包含了术语N的相关信息。"
+    },
+    {
+        "name": "Milkymist",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: {'name': 'Milkymist', 'descroption': 'Toolchain for Milkymist hardware engineers.'}。 没有在术语表T中找到与术语N重复的术语。"
+    },
+    {
+        "name": "MinGW cross-compiler",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"MinGW cross-compiler\"的术语，因此术语N和术语表T中的术语重复了。"
+    },
+    {
+        "name": "Multimedia",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: {'name': 'Multimedia', 'descroption': 'Audio/video framework common to desktops'}."
+    },
+    {
+        "name": "MariaDB (MySQL) Database",
+        "judge": "B. 包含。\n\n术语表T中已经包含了'MariaDB Database Server'和'MariaDB Database Client'，这两个术语与术语N中的'MariaDB (MySQL) Database'有一定的重复。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Network Servers",
+        "judge": "B. 包含。\n\n术语表T中已经包含了类似的术语 \"Network Infrastructure Server\"，它们都涉及网络服务器。"
+    },
+    {
+        "name": "Neuron Modelling Simulators",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N \"Neuron Modelling Simulators\"。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "News Server",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N: 'News Server'. 因此术语表T包含了术语N。"
+    },
+    {
+        "name": "OCaml",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: OCaml。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Office/Productivity",
+        "judge": "B. 包含。\n\n术语表T中包含了 'Office Suite and Productivity'，而术语N中包含了 'Office/Productivity'，它们的描述非常相似，可以认为是同一个概念的不同表达方式。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Perl Development",
+        "judge": "B. 包含。\n\n术语表T中已经包含了\"Perl Support\"，这与术语N中的\"Perl Development\"有所重复。因此，术语表T已经包含了术语N。"
+    },
+    {
+        "name": "Perl for Web",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Perl for Web'. 术语N的描述为'Basic Perl web application support.'，与术语表T中的描述完全一致。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "A phone/tablet UX environment",
+        "judge": "B. 包含。\n\n术语表T中包含了\"Deepin New Desktop Environment\"，而术语N中描述的是\"A phone/tablet UX environment\"，虽然不完全相同，但可以认为是类似的概念，因此可以判断术语表T包含了术语N。"
+    },
+    {
+        "name": "PHP",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N: PHP Support。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Printing Support",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语名为\"Printing Client\"和\"Print Server\"，这两个术语与术语N中的\"Printing Support\"有一定的重复性，因为它们都涉及打印功能和打印服务器。"
+    },
+    {
+        "name": "Python Classroom",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语 'Python'，而术语N是 'Python Classroom'，可以看出术语N是在 'Python' 的基础上进行了扩展，因此术语表T中已经包含了术语N。"
+    },
+    {
+        "name": "Python Science",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语'Python Science'，因此术语表T不包含术语N。"
+    },
+    {
+        "name": "Robotics",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: Robotics。术语表T中没有重复的术语。"
+    },
+    {
+        "name": "RPM Development Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"RPM Development Tools\"，但是术语表T中没有重复的术语。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Ruby",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语名为\"Ruby\"的条目，描述为\"Ruby interfaces to common libraries and functionality.\"，与术语N中的描述\"Basic support for the Ruby programming language.\"有所不同，但是术语名相同，因此术语表T已经包含了术语N。"
+    },
+    {
+        "name": "Ruby on Rails",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"Ruby Support\"的术语，描述为\"Ruby interfaces to common libraries and functionality.\"，与术语N \"Ruby on Rails\" 有一定的重复。"
+    },
+    {
+        "name": "Security Lab",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语名为\"Security Tools\"，描述为\"Security tools for integrity and trust verification.\"，与术语N中的\"Security Lab\"有一定的重复性，但两者描述略有不同。"
+    },
+    {
+        "name": "Server Configuration Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Server Configuration Tools'。术语表T中没有重复的术语。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Windows File Server",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"Windows File Server\"，因此术语表T包含了术语N。在术语表T中，\"Windows File Server\"的描述是允许您在Linux和MS Windows系统之间共享文件。"
+    },
+    {
+        "name": "Sound and Video",
+        "judge": "B. 包含。\n\n术语表T中已经包含了\"Sound and Video\"这个术语，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "PostgreSQL Database",
+        "judge": "B. 包含。\n\n术语表T中已经包含了\"PostgreSQL Database Server\"和\"PostgreSQL Database Client\"，这两个术语与术语N中的\"PostgreSQL Database\"有一定的重复。因此，术语表T中包含了术语N。"
+    },
+    {
+        "name": "Additional Sugar Activities",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N，术语N是\"Additional Sugar Activities\"，而术语表T中没有类似的术语。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Sugar Desktop Environment",
+        "judge": "B.包含。\n\n术语表T中已经包含了一个名为\"Sugar Desktop Environment\"的术语，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "Sway Window Manager",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N：\"Sway Window Manager\"。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Sway Window Manager (supplemental packages)",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N，因此术语表T不包含术语N。"
+    },
+    {
+        "name": "System Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"System Tools\"，但是术语表T中没有重复的术语。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Text-based Internet",
+        "judge": "B. 包含。\n\n术语N中的 \"Text-based Internet\" 在术语表T中并不存在，因此术语表T包含了术语N。术语N与术语表T中的任何术语都不重复。"
+    },
+    {
+        "name": "Tomcat",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为'Tomcat'的术语，描述为'Tomcat web application server.'，因此术语表T已经包含了术语N。"
+    },
+    {
+        "name": "Vagrant with libvirt support",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Vagrant with libvirt support'。没有重复的术语。"
+    },
+    {
+        "name": "Virtualization",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Virtualization'。术语表T中没有重复的术语。"
+    },
+    {
+        "name": "Headless Virtualization",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Headless Virtualization'。术语表T中没有重复的术语。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "VideoLAN Client",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"VLC\"的术语，描述为\"The cross-platform open-source multimedia framework\"，与术语N中的\"VideoLAN Client\"是同一个概念，因此术语表T已经包含了术语N。"
+    },
+    {
+        "name": "Basic Web Server",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N \"Basic Web Server\"。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Window Managers",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'Window Managers', 'descroption': \"Simple window managers that aren't part of a larger desktop environment.\" 因此术语表T不包含术语N。"
+    },
+    {
+        "name": "Fedora Workstation ostree support",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'Fedora Workstation ostree support'。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Fedora Workstation product core",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'Fedora Workstation product core'。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "X Software Development",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N：\"X Software Development\"。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Applications for the Xfce Desktop",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'Applications for the Xfce Desktop'。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "Xfce",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"Xfce\"的术语，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "Extra plugins for the Xfce panel",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个与术语N相似的术语，即'X Window System'。虽然两者不完全相同，但都涉及到桌面环境和图形用户界面的相关内容。因此，术语表T已经包含了与术语N相关的内容。"
+    },
+    {
+        "name": "Multimedia support for Xfce",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"Multimedia\"的术语，描述为\"Audio/video framework common to desktops.\"，与术语N中的\"Multimedia support for Xfce\"有一定的重复。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Xfce Office",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"Office Suite and Productivity\"的术语，描述为\"A full-purpose office suite\"。因此，术语N \"Xfce Office\" 可以被认为是与术语表T中的\"Office Suite and Productivity\"重复的术语。"
+    },
+    {
+        "name": "Xfce Software Development",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Xfce Software Development'。术语表T中没有重复的术语。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "XMonad",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N：XMonad。因此，术语表T不包含术语N。"
+    },
+    {
+        "name": "XMonad for MATE",
+        "judge": "B. 包含。\n\n术语表T中已经包含了\"XMonad for MATE\"这个术语，所以术语N已经存在于术语表T中。"
+    },
+    {
+        "name": "KDE Frameworks 6 Software Development",
+        "judge": "A. 不包含。\n\n术语表T中没有包含术语N: 'KDE Frameworks 6 Software Development'。因此，术语表T不包含术语N。"
+    }
+]

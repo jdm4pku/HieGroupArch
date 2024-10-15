@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Additional Development",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，即\"Additional Development\"。因此，术语表T中已经包含了术语N，没有重复。"
+    },
+    {
+        "name": "Anaconda tools",
+        "judge": "B. 包含。\n\n术语表T中包含了\"Anaconda Tools\"这个术语，与术语N相同。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Base",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"Base\"的术语，描述为\"The basic installation of CentOS Linux.\"，与术语N中的描述\"The standard installation of OpenCloudOS.\"不同。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "base-x",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，术语N是\"base-x\"，描述为\"Local X.org display server\"。"
+    },
+    {
+        "name": "C Development Tools and Libraries",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'C Development Tools and Libraries'。因此，术语表T包含了术语N。术语N没有在术语表T中重复。"
+    },
+    {
+        "name": "Container Management",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: Container Management。术语表T中没有重复的术语与术语N相同。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Core",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，即\"Core\"。术语N的描述为\"Smallest possible installation\"，与术语表T中的描述一致。因此，术语表T中已经包含了术语N。"
+    },
+    {
+        "name": "Debugging Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，术语N是\"Debugging Tools\"，在术语表T中的描述为\"Tools for debugging misbehaving applications and diagnosing performance problems.\"。"
+    },
+    {
+        "name": "Development Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: Development Tools。因此，术语表T包含了术语N。术语N的描述为\"A basic development environment.\"，在术语表T中的描述为\"Additional development headers and libraries for building open-source applications.\"，两者描述不同，因此并非重复。"
+    },
+    {
+        "name": "DNS Name Server",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"DNS Name Server\"，描述为\"This package group allows you to run a DNS name server (BIND) on the system.\"。因此，术语表T包含了术语N。没有重复的术语。"
+    },
+    {
+        "name": "Fonts",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，但是术语N的描述与术语表T中的术语\"Fonts\"的描述重复了。因此，术语表T中已经包含了与术语N相同的术语。"
+    },
+    {
+        "name": "FTP Server",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N: 'FTP Server'。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "GNOME",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: {'name': 'GNOME', 'descroption': 'GNOME is a highly intuitive and user-friendly desktop environment.'}。因此，术语表T包含了术语N。没有重复的术语。"
+    },
+    {
+        "name": "Hardware Monitoring Utilities",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Hardware Monitoring Utilities'. 术语表T中的描述与术语N的描述完全一致。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Infiniband Support",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"Infiniband Support\"，其描述为\"Software designed for supporting clustering\"。"
+    },
+    {
+        "name": "Mail Server",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个类似的术语 \"E-mail Server\"，描述为 \"Allows the system to act as a SMTP and/or IMAP e-mail server.\" 因此，术语表T中已经包含了与术语N类似的内容，即邮件服务器相关的描述。"
+    },
+    {
+        "name": "MariaDB (MySQL) Database",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个与术语N相似的术语：'MariaDB Database Server'。这两个术语涉及到MariaDB数据库，因此可以认为术语表T已经包含了术语N。"
+    },
+    {
+        "name": "Network File System Client",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N，术语N为\"Network File System Client\"。"
+    },
+    {
+        "name": "Network Servers",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N \"Network Servers\"，它在术语表T中的描述是 \"These packages include network-based servers such as DHCP\"。"
+    },
+    {
+        "name": "Networking Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N：\"Networking Tools\"。"
+    },
+    {
+        "name": "Performance Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"Performance Tools\"，描述为\"Tools for diagnosing system and application-level performance problems.\"。因此，术语表T中包含了术语N。没有重复的术语。"
+    },
+    {
+        "name": "Platform Development",
+        "judge": "B. 包含。\n\n术语N中的名称是\"Platform Development\"，而术语表T中也有一个名称为\"Platform Development\"的条目，描述为\"Recommended development headers and libraries for developing applications to run on CentOS Linux.\"，虽然描述不完全相同，但名称是相同的，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "Remote Desktop Clients",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"Remote Desktop Clients\"的术语，描述为\"Agents used when running as a virtualized desktop.\" 因此，术语表T中已经包含了与术语N相似的术语，但描述略有不同。"
+    },
+    {
+        "name": "Scientific Support",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Scientific Support', 'descroption': 'Tools for mathematical and scientific computations'。"
+    },
+    {
+        "name": "Security Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Security Tools', 'descroption': 'Security tools for integrity and trust verification.'。因此，术语表T包含了术语N。没有重复的术语。"
+    },
+    {
+        "name": "PostgreSQL Database",
+        "judge": "B. 包含。\n\n术语表T中已经包含了一个名为\"PostgreSQL Database Server\"和一个名为\"PostgreSQL Database Client\"的术语，这两个术语与术语N中的\"PostgreSQL Database\"有一定的重复。因此，术语表T中已经包含了与术语N相关的内容。"
+    },
+    {
+        "name": "Standard",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N，它们的描述都是关于提供一套常见的工具来扩展最小安装的功能。因此，术语表T中的\"Standard\"术语与术语N是重复的。"
+    },
+    {
+        "name": "System Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'System Tools'。术语表T中没有重复的术语，因此术语N是独一无二的。"
+    },
+    {
+        "name": "Virtualization Client",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N：\"Virtualization Client\"。"
+    },
+    {
+        "name": "Virtualization Hypervisor",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"Virtualization Hypervisor\"，因此术语表T包含了术语N。术语表T中的术语描述为\"Smallest possible virtualization host installation.\"，与术语N的描述完全一致。因此，术语表T中的术语\"Virtualization Hypervisor\"与术语N是重复的。"
+    },
+    {
+        "name": "Virtualization Platform",
+        "judge": "B. 包含。\n\n术语N中的术语\"Virtualization Platform\"在术语表T中也存在，因此术语表T包含了术语N。术语表T中的描述为\"Provides an interface for accessing and controlling virtualized guests and containers.\"，而术语N的描述为\"Provides an interface for accessing and controlling virtualized guests.\"，两者描述略有不同，但属于相似的概念。"
+    },
+    {
+        "name": "Virtualization Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N：\"Virtualization Tools\"。因此，术语表T中包含了术语N。没有重复的术语。"
+    },
+    {
+        "name": "Basic Web Server",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: Basic Web Server。因此，术语表T中包含了术语N。没有重复的术语。"
+    },
+    {
+        "name": "Workstation product core",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Workstation product core'. 术语表T中的描述与术语N的描述完全相同，因此可以判断术语表T包含了术语N。"
+    },
+    {
+        "name": "Dial-up Networking Support",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Dial-up Networking Support'。"
+    },
+    {
+        "name": "File and Storage Server",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'File and Storage Server', 'descroption': 'CIFS'。"
+    },
+    {
+        "name": "Graphical Administration Tools",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Graphical Administration Tools'。因此，术语表T包含了术语N。没有重复的术语。"
+    },
+    {
+        "name": "Hardware Support",
+        "judge": "B. 包含。\n\n术语表T中已经包含了术语N，术语N的名称为\"Hardware Support\"，描述为\"This group is a collection of tools for various hardware specific utilities.\"。"
+    },
+    {
+        "name": "Large Systems Performance",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Large Systems Performance'. 术语表T中的描述与术语N的描述完全匹配，因此术语表T包含了术语N。"
+    },
+    {
+        "name": "Server product core",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Server product core', 'descroption': 'Packages mandatory for the server product.'。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Smart Card Support",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N: 'Smart Card Support'. 术语N的描述为\"Support for using smart card authentication.\"，与术语表T中的描述完全一致。因此，术语表T包含了术语N。"
+    },
+    {
+        "name": "Windows File Server",
+        "judge": "B. 包含。\n\n术语表T中包含了术语N \"Windows File Server\"，但是术语表T中也包含了一个与术语N相似的术语 \"File and Storage Server\"。虽然它们不完全相同，但是它们都涉及到文件服务器功能。因此，术语表T中包含了术语N。"
+    }
+]
