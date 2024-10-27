@@ -1,0 +1,354 @@
+[
+    {
+        "name": "Additional Development",
+        "descroption": "Additional development headers and libraries for building open-source applications."
+    },
+    {
+        "name": "Anaconda Tools",
+        "descroption": ""
+    },
+    {
+        "name": "Backup Client",
+        "descroption": "Client tools for connecting to a backup server and doing backups."
+    },
+    {
+        "name": "Backup Server",
+        "descroption": "Software to centralize your infrastructure's backups."
+    },
+    {
+        "name": "Base",
+        "descroption": "The basic installation of CentOS Linux."
+    },
+    {
+        "name": "CentOS Linux Client product core",
+        "descroption": "Packages mandatory for the client product."
+    },
+    {
+        "name": "Compatibility Libraries",
+        "descroption": "Compatibility libraries for applications built on previous versions of CentOS Linux."
+    },
+    {
+        "name": "CentOS Linux ComputeNode product core",
+        "descroption": "Packages mandatory for the computenode product."
+    },
+    {
+        "name": "Conflicts (Client)",
+        "descroption": "This group includes packages conflicting with @everything installation on the Client variant."
+    },
+    {
+        "name": "Conflicts (ComputeNode)",
+        "descroption": "This group includes packages conflicting with @everything installation on the ComputeNode variant."
+    },
+    {
+        "name": "Conflicts (Server)",
+        "descroption": "This group includes packages conflicting with @everything installation on the Server variant."
+    },
+    {
+        "name": "Conflicts (Workstation)",
+        "descroption": "This group includes packages conflicting with @everything installation on the Workstation variant."
+    },
+    {
+        "name": "Console Internet Tools",
+        "descroption": "Console internet access tools"
+    },
+    {
+        "name": "Core",
+        "descroption": "Smallest possible installation."
+    },
+    {
+        "name": "Debugging Tools",
+        "descroption": "Tools for debugging misbehaving applications and diagnosing performance problems."
+    },
+    {
+        "name": "Desktop Debugging and Performance Tools",
+        "descroption": "GUI tools for debugging applications and performance."
+    },
+    {
+        "name": "Development Tools",
+        "descroption": "A basic development environment."
+    },
+    {
+        "name": "Dial-up Networking Support",
+        "descroption": "Tools for connecting via WWAN"
+    },
+    {
+        "name": "Directory Client",
+        "descroption": "Clients for integration into a network managed by a directory service."
+    },
+    {
+        "name": "Directory Server",
+        "descroption": "Machine and user identity servers."
+    },
+    {
+        "name": "DNS Name Server",
+        "descroption": "This package group allows you to run a DNS name server (BIND) on the system."
+    },
+    {
+        "name": "Emacs",
+        "descroption": "The GNU Emacs extensible"
+    },
+    {
+        "name": "File and Storage Server",
+        "descroption": "CIFS"
+    },
+    {
+        "name": "Fonts",
+        "descroption": "Fonts for rendering text in a variety of languages and scripts."
+    },
+    {
+        "name": "FTP Server",
+        "descroption": "Allows the system to act as an FTP server."
+    },
+    {
+        "name": "GNOME Applications",
+        "descroption": "A set of commonly used GNOME Applications."
+    },
+    {
+        "name": "GNOME",
+        "descroption": "GNOME is a highly intuitive and user friendly desktop environment."
+    },
+    {
+        "name": "Graphical Administration Tools",
+        "descroption": "Graphical system administration tools for managing many aspects of a system."
+    },
+    {
+        "name": "Graphics Creation Tools",
+        "descroption": "Software for creation and manipulation of still images."
+    },
+    {
+        "name": "Guest Agents",
+        "descroption": "Agents used when running under a hypervisor."
+    },
+    {
+        "name": "Guest Desktop Agents",
+        "descroption": "Agents used when running as a virtualized desktop."
+    },
+    {
+        "name": "High Availability",
+        "descroption": "Infrastructure for highly available services and/or shared storage."
+    },
+    {
+        "name": "Hardware Monitoring Utilities",
+        "descroption": "A set of tools to monitor server hardware."
+    },
+    {
+        "name": "Identity Management Server",
+        "descroption": "Centralized management of users"
+    },
+    {
+        "name": "Infiniband Support",
+        "descroption": "Software designed for supporting clustering and grid connectivity using RDMA-based InfiniBand and iWARP fabrics."
+    },
+    {
+        "name": "Input Methods",
+        "descroption": "Software for the input of international text."
+    },
+    {
+        "name": "Internet Applications",
+        "descroption": "Email"
+    },
+    {
+        "name": "Internet Browser",
+        "descroption": "Firefox web browser."
+    },
+    {
+        "name": "Java Platform",
+        "descroption": "Java support for the CentOS Linux Server and Desktop Platforms."
+    },
+    {
+        "name": "KDE Applications",
+        "descroption": "A set of commonly used KDE Applications."
+    },
+    {
+        "name": "KDE",
+        "descroption": "The KDE Plasma Workspaces"
+    },
+    {
+        "name": "KDE Multimedia Support",
+        "descroption": "Multimedia support for KDE."
+    },
+    {
+        "name": "Large Systems Performance",
+        "descroption": "Performance support tools for large systems."
+    },
+    {
+        "name": "Legacy UNIX Compatibility",
+        "descroption": "Compatibility programs for migration from or working with legacy UNIX environments."
+    },
+    {
+        "name": "Legacy X Window System Compatibility",
+        "descroption": "Compatibility programs for migration from or working with legacy X Window System environments."
+    },
+    {
+        "name": "Load Balancer",
+        "descroption": "Load balancing support for network traffic."
+    },
+    {
+        "name": "E-mail Server",
+        "descroption": "Allows the system to act as a SMTP and/or IMAP e-mail server."
+    },
+    {
+        "name": "Mainframe Access",
+        "descroption": "Tools for accessing mainframe computing resources."
+    },
+    {
+        "name": "MariaDB Database Server",
+        "descroption": "The MariaDB SQL database server"
+    },
+    {
+        "name": "MariaDB Database Client",
+        "descroption": "The MariaDB SQL database client"
+    },
+    {
+        "name": "Multimedia",
+        "descroption": "Audio/video framework common to desktops."
+    },
+    {
+        "name": "Network File System Client",
+        "descroption": "Enables the system to attach to network storage."
+    },
+    {
+        "name": "Network Infrastructure Server",
+        "descroption": "Servers for core network protocols and services"
+    },
+    {
+        "name": "Networking Tools",
+        "descroption": "Tools for configuring and analyzing computer networks."
+    },
+    {
+        "name": "Common NetworkManager submodules",
+        "descroption": "This group contains NetworkManager submodules that are commonly used"
+    },
+    {
+        "name": "Office Suite and Productivity",
+        "descroption": "A full-purpose office suite"
+    },
+    {
+        "name": "Performance Tools",
+        "descroption": "Tools for diagnosing system and application-level performance problems."
+    },
+    {
+        "name": "Perl Support",
+        "descroption": "Perl interfaces to common libraries and functionality."
+    },
+    {
+        "name": "Perl for Web",
+        "descroption": "Basic Perl web application support."
+    },
+    {
+        "name": "PHP Support",
+        "descroption": "PHP web application framework."
+    },
+    {
+        "name": "Platform Development",
+        "descroption": "Recommended development headers and libraries for developing applications to run on CentOS Linux."
+    },
+    {
+        "name": "KVM platform specific packages",
+        "descroption": "Virtualization utilities and drivers for KVM"
+    },
+    {
+        "name": "Hyper-v platform specific packages",
+        "descroption": "Virtualization utilities and drivers for Hyper-v"
+    },
+    {
+        "name": "VMware platform specific packages",
+        "descroption": "Virtualization utilities and drivers for VMware"
+    },
+    {
+        "name": "PostgreSQL Database Server",
+        "descroption": "The PostgreSQL SQL database server"
+    },
+    {
+        "name": "PostgreSQL Database Client",
+        "descroption": "The PostgreSQL SQL database client"
+    },
+    {
+        "name": "Printing Client",
+        "descroption": "Tools for printing to a local printer or a remote print server."
+    },
+    {
+        "name": "Print Server",
+        "descroption": "Allows the system to act as a print server."
+    },
+    {
+        "name": "Python",
+        "descroption": "Basic Python web application support."
+    },
+    {
+        "name": "Remote Desktop Clients",
+        "descroption": ""
+    },
+    {
+        "name": "Remote Management for Linux",
+        "descroption": "Remote management interface for CentOS Linux"
+    },
+    {
+        "name": "Resilient Storage",
+        "descroption": "Clustered storage"
+    },
+    {
+        "name": "Ruby Support",
+        "descroption": "Ruby interfaces to common libraries and functionality."
+    },
+    {
+        "name": "Scientific Support",
+        "descroption": "Tools for mathematical and scientific computations"
+    },
+    {
+        "name": "Security Tools",
+        "descroption": "Security tools for integrity and trust verification."
+    },
+    {
+        "name": "CentOS Linux Server product core",
+        "descroption": "Packages mandatory for the server product."
+    },
+    {
+        "name": "Smart Card Support",
+        "descroption": "Support for using smart card authentication."
+    },
+    {
+        "name": "System Administration Tools",
+        "descroption": "Utilities useful in system administration."
+    },
+    {
+        "name": "System Management",
+        "descroption": "Various low-level hardware management frameworks."
+    },
+    {
+        "name": "Technical Writing",
+        "descroption": "Tools for writing technical documentation."
+    },
+    {
+        "name": "Virtualization Client",
+        "descroption": "Clients for installing and managing virtualization instances."
+    },
+    {
+        "name": "Virtualization Hypervisor",
+        "descroption": "Smallest possible virtualization host installation."
+    },
+    {
+        "name": "Virtualization Platform",
+        "descroption": "Provides an interface for accessing and controlling virtualized guests and containers."
+    },
+    {
+        "name": "Virtualization Tools",
+        "descroption": "Tools for offline virtual image management."
+    },
+    {
+        "name": "Web Server",
+        "descroption": "Allows the system to act as a web server"
+    },
+    {
+        "name": "Web Servlet Engine",
+        "descroption": "Allows the system to host Java servlets."
+    },
+    {
+        "name": "CentOS Linux Workstation product core",
+        "descroption": "Packages mandatory for the workstation product."
+    },
+    {
+        "name": "X Window System",
+        "descroption": "X Window System Support."
+    }
+]
